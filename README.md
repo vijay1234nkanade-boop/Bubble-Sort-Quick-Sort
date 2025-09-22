@@ -255,3 +255,12 @@ Name: Neha  || Roll No: 5 || Total marks: 90
 Name: Isha  || Roll No: 7 || Total marks: 65
 Name: Priya || Roll No: 10 || Total marks: 72
 
+## dry run photos
+![img Alt](https://github.com/vijay1234nkanade-boop/Bubble-Sort-Quick-Sort/blob/main/WhatsApp%20Image%202025-09-22%20at%2013.06.07_67e447cd.jpg?raw=true)
+![img Alt](https://github.com/vijay1234nkanade-boop/Bubble-Sort-Quick-Sort/blob/main/WhatsApp%20Image%202025-09-22%20at%2013.06.08_a12d614f.jpg?raw=true)
+
+![img Alt](https://github.com/vijay1234nkanade-boop/Bubble-Sort-Quick-Sort/blob/main/WhatsApp%20Image%202025-09-22%20at%2013.06.08_7c27fafe.jpg?raw=true)
+
+![img Alt](https://github.com/vijay1234nkanade-boop/Bubble-Sort-Quick-Sort/blob/main/WhatsApp%20Image%202025-09-22%20at%2013.09.52_b581f700.jpg?raw=true)
+
+
